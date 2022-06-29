@@ -1,0 +1,2 @@
+# Mall-Customers-Depth-Analysis
+Malls and Shopping complexes are often indulged in a race to increase their customers and hence making huge profits. By analyzing this dataset, we are going to build a model to segment the customers based on their Gender, Age, Annual Income and Spending score . You own the mall and want to understand the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly.
